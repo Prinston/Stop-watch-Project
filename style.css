@@ -13,7 +13,8 @@ body{
     align-items: center;
 }
 .container{
-    width: 60%;
+    width: 90%;
+    max-width: 400px;
     height: 250px;
     background-color: #fff;
     border-radius: 30px;
@@ -22,21 +23,21 @@ body{
 }
 #timer{
     width: 100%;
-    font-size: 72px;
+    font-size: 3rem;
     text-align: center;
     margin: 0px auto;
-    padding: 35px;
+    padding: 15px;
 }
 .buttons{
     text-align: center;
 }
 button{
-    margin: 0px 10px;
+    margin: 10px;
     border: none;
 }
 button i{
-    font-size: 2rem;
-    padding: 10px;
+    font-size: 1.5rem;
+    padding: 8px;
     color: #fff;
 }
 
