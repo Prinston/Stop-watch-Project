@@ -13,7 +13,7 @@ This is a simple web application that functions as a stopwatch. It provides basi
 
 ## Demo
 
-[Link to Live Demo](https://your-quote-generator-demo-url.com)
+[Link to Live Demo](https://prinston.github.io/Stop-watch-Project/)
 
 ## Technologies Used
 
